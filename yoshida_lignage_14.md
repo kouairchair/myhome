@@ -23,14 +23,21 @@
 ![リビング](https://github.com/kouairchair/myhome/assets/11924482/5622d3b3-b712-4a84-9548-e30736ce5951)
 ![浴室](https://github.com/kouairchair/myhome/assets/11924482/d3e32b33-f920-4460-a09c-a1dfd791d091)
 ![キッチン](https://github.com/kouairchair/myhome/assets/11924482/9684782f-7fc4-4725-b61d-6d01ff1ddd0b)
-![リビング以外の居室](https://github.com/kouairchair/myhome/assets/11924482/e52fca6e-600d-4201-b6ba-f784515ce0b9)
+![和室](https://github.com/kouairchair/myhome/assets/11924482/e52fca6e-600d-4201-b6ba-f784515ce0b9)
 ![玄関](https://github.com/kouairchair/myhome/assets/11924482/fbddc650-6752-45bb-bf5f-5b9fe20b6e88)
 ![シャンプードレッサー](https://github.com/kouairchair/myhome/assets/11924482/fccd96c0-436d-4fa5-b79b-5526430259c9)
-[クローゼット](https://github.com/kouairchair/myhome/assets/11924482/16c09472-8fc1-46c3-8199-0b2dda085a26)
+![クローゼット1](https://github.com/kouairchair/myhome/assets/11924482/16c09472-8fc1-46c3-8199-0b2dda085a26)
 ![トイレ](https://github.com/kouairchair/myhome/assets/11924482/c6496d3c-cb8d-45b6-ab17-37d264b0d9f1)
 ![駐車場](https://github.com/kouairchair/myhome/assets/11924482/8a58e1f1-458a-433a-8ea4-5b438b8a46f0)
 ![バルコニー](https://github.com/kouairchair/myhome/assets/11924482/4a19df51-dbb9-46ad-b17d-0d552e79aea9)
-
+![TVモニターホン](https://github.com/kouairchair/myhome/assets/11924482/9c080b10-29cc-4b99-ac73-bef78199847e)
+![洋室1](https://github.com/kouairchair/myhome/assets/11924482/fee3cb17-24f3-4ea9-aa64-e7edb92fe357)
+![ウォークインクローゼット](https://github.com/kouairchair/myhome/assets/11924482/067c8c1a-51a4-4ccb-8194-758654eb02c1)
+![洋室2](https://github.com/kouairchair/myhome/assets/11924482/f47439b8-7342-4538-99ab-c07f57e11487)
+![クローゼット2](https://github.com/kouairchair/myhome/assets/11924482/aeeb1d8b-a70d-4385-b690-fff262f5493a)
+![洋室3](https://github.com/kouairchair/myhome/assets/11924482/3c67890b-f3c0-4646-b178-589088061c3a)
+![クローゼット3](https://github.com/kouairchair/myhome/assets/11924482/41cba627-f252-4b52-a1ee-a043370c10f5)
+![シューズボックス](https://github.com/kouairchair/myhome/assets/11924482/7b123ac4-bc10-4846-830a-949a85303191)
 
 </details>
 
